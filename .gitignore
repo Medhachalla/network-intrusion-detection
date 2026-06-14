@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Model files (optional)
+# Uncomment if models are too large
+# *.pkl
+
+# Dataset files
+data/
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
